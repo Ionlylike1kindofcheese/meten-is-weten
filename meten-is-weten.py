@@ -5,6 +5,6 @@ if a > b:
     max = a
     print("a is het grootste getal")
 elif a < b:
-    max = a
+    min = a
     print("a is het kleinste getal")
     
